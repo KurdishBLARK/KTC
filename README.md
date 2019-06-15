@@ -1,0 +1,2 @@
+# KTC
+Kurdish Textbooks Corpus
