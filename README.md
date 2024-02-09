@@ -1,5 +1,5 @@
 # KTC
-Kurdish Textbooks Corpus presented in our paper entitled ["Developing a Fine-Grained Corpus for a Less-resourced Language:the case of Kurdish"](https://arxiv.org/pdf/1909.11467.pdf)
+Kurdish Textbooks Corpus has been presented in our paper entitled ["Developing a Fine-Grained Corpus for a Less-resourced Language:the case of Kurdish"](https://arxiv.org/pdf/1909.11467.pdf)
 
 If you are using this resource, please cite the following: 
 
